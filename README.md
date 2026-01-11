@@ -1,43 +1,39 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Subhadeep;Code.+Learn.+Repeat." alt="Typing SVG" />
+  
+# 👋 Hi, I'm Subhadeep
+
+### 💫 *Code. Learn. Repeat.*
+
+[![Email](https://img.shields.io/badge/Email-imsubhadeep@proton.me-blue?style=flat-square&logo=protonmail)](mailto:imsubhadeep@proton.me)
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
-
-```text
-💻 Passionate developer who loves building things
-🎯 Focused on writing clean and efficient code
-🚀 Always exploring new technologies and tools
-📫 Reach me at imsubhadeep@proton.me
-⚡ Fun fact: I think I'm Introvert .. Zzzz
-```
-
----
-
-### 💻 Skills
+## 🚀 Languages I Know
 
 <p align="center">
-  <strong>🚀 Languages I Know</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>📚 Currently Learning</strong>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
+## 📚 Currently Learning
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,html&theme=dark" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css,js&theme=dark" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
----
-
-### 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,postman&theme=dark" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer"/>
+</div>
