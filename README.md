@@ -10,14 +10,13 @@
 
 ### 👨‍💻 About Me
 
-- 💻 Passionate developer who loves building things
-- 🎯 Focused on writing clean and efficient code
+- 🐍 Python | C | HTML
+- 🚀 Learning CSS & JavaScript
+- 💡 Turning ideas into code
 - 🚀 Always exploring new technologies
 - 📫 Reach me at **imsubhadeep@proton.me**
-- ⚡ Fun fact: I think I'm Introvert .. Zzzz
 
 ---
-
 
 <div align="center">
   
