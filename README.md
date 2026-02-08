@@ -10,8 +10,8 @@
 
 ### 👨‍💻 About Me
 
-- 🐍 Python | C | HTML
-- 🚀 Learning CSS & JavaScript
+- 🐍 Python | C
+- 🚀 Learning Web development
 - 💡 Turning ideas into code
 - 🚀 Always exploring new technologies
 - 📫 Reach me at **imsubhadeep@proton.me**
