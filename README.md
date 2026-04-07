@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-- 🐍 Python | C
+- 🐍 HTNL | CSS | Python | Java
 - 🚀 Learning Web development
 - 💡 Turning ideas into code
 - 🚀 Always exploring new technologies
